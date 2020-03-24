@@ -68,7 +68,6 @@ HEADER
 HEADER END
 */
 
-
 /*
 BANNER
 */
@@ -87,18 +86,6 @@ BANNER
    	margin: 0px;
 }
 .banner-title {
-	top: 16%;
-	text-align: left;
-	position: absolute;
-	color : white;
-	max-height: 30%;
-	font-family: 'Arbutus Slab', serif;
-	max-width: 28%;
-	margin-left: 2%;
-	text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
-	font-size: 30px;
-}
-.banner-title-2 {
 	text-align: center;
 	color : white;
 	text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
@@ -106,6 +93,7 @@ BANNER
 	opacity: 0.8;
 	width: 100%;
 	padding-bottom: 1%;
+	padding-top: 1%;
 	margin: 0!important;
 }
 /*
@@ -127,9 +115,6 @@ PROGRAM
  #program-anchor {
  	font-weight: bold;
  }
-.button :hover {
-	color: green;
-}
 .program-list {
 	text-align: center;
 	padding: 0px;
@@ -147,14 +132,6 @@ PROGRAM
 .program-list-20h {
 	margin-bottom: 5%;
 	padding-top: 7%;
-}
-.program_list-18h p {
-	text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
-	color: white;
-}
-.program_list-20h p {
-	text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
-	color: white;
 }
 .date {
 	font-size: 17pt;
@@ -225,20 +202,8 @@ ORDER FORM
 .inscription-title-content {
 	margin-bottom: 3%;
 }
-.form {
-	font-family: 'Arbutus Slab', serif;
-	padding-left: 5%;
-	padding-right: 5%;
-	padding-bottom: 3%;
-	padding-top: 0!important;
-	margin-bottom: 1%;
-	min-width: 50%;
-	float: right;
-	background-color: #333333;
-	color : white;
-	border-radius: 15px;
-	padding: 10px;
-  	border: 2px solid #e67e22;
+.contact-title-content {
+	margin-bottom: 3%;
 }
 fieldset {
 	font-size: 14px;
