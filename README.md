@@ -1,3 +1,3 @@
 # OpenClassrooms-Project-Films
 
-Lien vers le site :  https://fredgoum.github.io/OpenClassrooms-Project-Films/
+Link to the site : https://fredgoum.github.io/Project-Films/
