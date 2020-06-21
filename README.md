@@ -1,3 +1,5 @@
-# OpenClassrooms-Project-Films
+# Project Films
 
-Link to the site : https://fredgoum.github.io/films/
+Integrate a client site for his film festival.
+
+Link to the site : https://fredgoum.github.io/films/.
